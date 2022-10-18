@@ -1,0 +1,41 @@
+[{
+"id": 1,
+"name": "iPhone 11",
+"description": "Apple, 32GB, RAM: 3GB, iOS13",
+"price": 17000000,
+"image":
+"https://cdn.tgdd.vn/Products/Images/42/153856/iphone-xi-xanhla-600x600.jpg",
+"category_id": 1
+}, {
+"id": 2,
+"name": "iPad Air 5 M1",
+"description": "Apple, 128GB, RAM: 6GB",
+"price": 37000000,
+"image":
+"https://cdn.tgdd.vn/Products/Images/522/274155/ipad-air-5-wifi-cellular-tim-thumb-600x600.jpg",
+"category_id": 2
+}, {
+"id": 3,
+"name": "Samsung Galaxy S22 Ultra",
+"description": "Samsung, 64GB, RAML: 6GB",
+"price": 24000000,
+"image":
+"https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-Burgundy-600x600.jpg",
+"category_id": 1
+}, {
+"id": 4,
+"name": "Samsung Galaxy S22 Ultra",
+"description": "Samsung, 64GB, RAML: 6GB",
+"price": 24000000,
+"image":
+"https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-Burgundy-600x600.jpg",
+"category_id": 1
+}, {
+"id": 5,
+"name": "Samsung Galaxy S22 Ultra",
+"description": "Samsung, 64GB, RAML: 6GB",
+"price": 24000000,
+"image":
+"https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-Burgundy-600x600.jpg",
+"category_id": 1
+}]
